@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://bi925.github.io/baebi.github.io/</loc>
     <lastmod>2026-09-20T22:30:22+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/hello-world/</loc>
+    <loc>https://bi925.github.io/baebi.github.io/posts/hello-world/</loc>
     <lastmod>2026-09-20T22:30:22+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://bi925.github.io/baebi.github.io/posts/</loc>
     <lastmod>2026-09-20T22:30:22+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://bi925.github.io/baebi.github.io/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://bi925.github.io/baebi.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/math-test/</loc>
+    <loc>https://bi925.github.io/baebi.github.io/posts/math-test/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://bi925.github.io/baebi.github.io/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/test/</loc>
+    <loc>https://bi925.github.io/baebi.github.io/posts/test/</loc>
   </url>
 </urlset>

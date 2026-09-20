@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Baebi</title>
-    <link>http://localhost:1313/</link>
+    <link>https://bi925.github.io/baebi.github.io/</link>
     <description>Recent content on Baebi</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 20 Sep 2026 22:30:22 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bi925.github.io/baebi.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello everyone</title>
-      <link>http://localhost:1313/posts/hello-world/</link>
+      <link>https://bi925.github.io/baebi.github.io/posts/hello-world/</link>
       <pubDate>Sun, 20 Sep 2026 22:30:22 +0700</pubDate>
-      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <guid>https://bi925.github.io/baebi.github.io/posts/hello-world/</guid>
       <description>&lt;h3 id=&#34;alo-alo&#34;&gt;ALO ALO&lt;/h3&gt;
 &lt;p&gt;This is my first post on the blog.&lt;/p&gt;
 &lt;p&gt;All about &lt;em&gt;Operations Research, ISE + AI + Robotics&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://bi925.github.io/baebi.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://bi925.github.io/baebi.github.io/about/</guid>
       <description>&lt;h3 id=&#34;hi-im-bi&#34;&gt;Hi! I&amp;rsquo;m Bi.&lt;/h3&gt;
 &lt;p&gt;I write about &lt;strong&gt;Operations Research, Industrial &amp;amp; Systems Engineering, AI, Machine Learning, and Robotics&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;This blog is where I share my notes, projects, experiments, and things I learn along the way.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Math Test</title>
-      <link>http://localhost:1313/posts/math-test/</link>
+      <link>https://bi925.github.io/baebi.github.io/posts/math-test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/math-test/</guid>
+      <guid>https://bi925.github.io/baebi.github.io/posts/math-test/</guid>
       <description>&lt;h1 id=&#34;math-test&#34;&gt;Math Test&lt;/h1&gt;
 &lt;p&gt;The famous equation:&lt;/p&gt;
 &lt;span class=&#34;katex&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mo stretchy=&#34;false&#34;&gt;(&lt;/mo&gt;&lt;mi&gt;E&lt;/mi&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mi&gt;m&lt;/mi&gt;&lt;msup&gt;&lt;mi&gt;c&lt;/mi&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msup&gt;&lt;mo stretchy=&#34;false&#34;&gt;)&lt;/mo&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;(E = mc^2)&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;p&gt;And an optimization problem:
@@ -45,9 +45,9 @@
     </item>
     <item>
       <title>Test</title>
-      <link>http://localhost:1313/posts/test/</link>
+      <link>https://bi925.github.io/baebi.github.io/posts/test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/test/</guid>
+      <guid>https://bi925.github.io/baebi.github.io/posts/test/</guid>
       <description>&lt;h1 id=&#34;this-is-a-heading&#34;&gt;This is a heading&lt;/h1&gt;
 &lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
