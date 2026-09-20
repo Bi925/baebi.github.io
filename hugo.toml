@@ -1,0 +1,50 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = 'Baebi'
+theme = 'PaperMod'
+math = true
+
+[params]
+mainSections = ["posts"]
+
+[markup.goldmark.parser]
+autoHeadingID = true
+
+description = "My notes on Operations Research, ISE, AI, ML and Robotics"
+author = "Bi"
+
+
+[params.profileMode]
+enabled = true
+title = "Your Name"
+subtitle = "Operations Research · ISE · AI · ML · Robotics"
+imageUrl = ""
+imageTitle = ""
+imageWidth = 150
+imageHeight = 150
+
+[[params.profileMode.buttons]]
+name = "Posts"
+url = "/posts"
+
+[[params.profileMode.buttons]]
+name = "About"
+url = "/about"
+
+
+[[menu.main]]
+name = "Posts"
+url = "/posts/"
+weight = 10
+
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 20
+
+[markup.goldmark.extensions.passthrough]
+enable = true
+
+[markup.goldmark.extensions.passthrough.delimiters]
+block = [["\\[", "\\]"], ["$$", "$$"]]
+inline = [["\\(", "\\)"], ["$", "$"]]
